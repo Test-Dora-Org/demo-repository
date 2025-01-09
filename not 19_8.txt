@@ -1,0 +1,9 @@
+Tạo role theo cách role này được làm gì, chứ không phải hành động này role nào được dùng
+
+Không hardcode
+
+Unit Test 
+
+Tạo them tang service để giao tiếp với repository
+
+Ở controller chỉ điều hướng 

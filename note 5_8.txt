@@ -1,0 +1,4 @@
+Tạo 1 BaseRepository 
+check null 
+check empty
+Dùng generic cho repo
